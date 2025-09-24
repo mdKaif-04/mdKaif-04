@@ -1,5 +1,5 @@
 
-## Hey <img alt="Hi" src="https://www.pinterest.com/pin/hand-waving-gif-recherchegoogle--31595634882385042" width="30px" height="30px" />, I'm Mohammed Kaif — A Full-Stack Web Developer 👨‍💻
+## Hey <img alt="Hi" src="(https://www.pinterest.com/pin/hand-waving-gif-recherchegoogle--31595634882385042)" width="30px" height="30px" />, I'm Mohammed Kaif — A Full-Stack Web Developer 👨‍💻
 
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
