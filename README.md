@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**mdKaif-04/mdKaif-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Mohammed Kaif — a Full-Stack Developer 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+  
+### Glad to see you here!
+
+Full Stack Developement is something which coincides with my passion and hobby. Always up for a discussion on Web Applications, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
+  
+<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
+
+
+  
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and developing new stuffs
+- 📰 &nbsp; Reading & writing tech blogs whenever possible
+- 🍕 &nbsp; Hackathons & coding competitions
+
+### Languages and Tools:
+
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
